@@ -43,7 +43,7 @@ const getAccessToken = async (client, verifier, code) => {
     client_id: client,
     grant_type: 'authorization_code',
     code: code,
-    redirect_uri: `http://${window.location.host}/callback`,
+    redirect_uri: `https://${window.location.host}/callback`,
     code_verifier: verifier
   };
 
