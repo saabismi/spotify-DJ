@@ -6,7 +6,7 @@ import {
 import './App.css';
 import AuthContext  from './SpotifyContext/SpotifyContext';
 import { Header, Player, Toast, PlayerSkeleton } from './Player';
-import { SideMenu } from './Menu';
+//import { SideMenu } from './Menu';
 import Button     from 'react-bootstrap/Button';
 import Container  from 'react-bootstrap/Container';
 

@@ -8,7 +8,7 @@ import { AuthProvider } from './SpotifyContext/SpotifyContext';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const CLIENT_ID = 'a5e9439fc1e44fd79f7f2ff00c6a0bc2';
+const CLIENT_ID = '0faa50f8fabb4fe9a8cc3946cdfcbf50';
 
 ReactDOM.render(
   <CookiesProvider>
