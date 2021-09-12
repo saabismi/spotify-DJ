@@ -8,8 +8,7 @@ I have modified it in this fork and made it better suited for use in my personal
 [![Preview](preview_new.png)](https://spotify-dj.vercel.app)
 
 ## Plans for the project
-* less padding on the main container
 * more visible queue items
 * maybe a lighter color for the rangeslider background
 
-I am new with react so working with .jsx files is unfamiliar to me and I do not yet understand the whole file structure of the original project by Matias Kovero.
+I am new with react so working with .jsx files is unfamiliar to me and I do not yet understand the whole file structure of the original project by Matias Kovero. I might switch over to his Svelte Spotify web client making library thing. :D
